@@ -18,6 +18,7 @@ public class testCalculator {
 		System.out.println("The value of multiplication is "+E);
 		double F = A%B;
 		System.out.println("The value of division is "+F);
+		System.out.println("Terminated");
 		
 	
 	}
