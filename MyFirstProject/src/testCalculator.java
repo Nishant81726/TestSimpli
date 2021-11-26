@@ -13,11 +13,11 @@ public class testCalculator {
 		double C = A+B;
 		System.out.println("The value of addition is "+C);
 		double D = A-B;
-		System.out.println("The value of subtract is "+C);
+		System.out.println("The value of subtract is "+D);
 		double E = A*B;
-		System.out.println("The value of multiplication is "+C);
+		System.out.println("The value of multiplication is "+E);
 		double F = A%B;
-		System.out.println("The value of division is "+C);
+		System.out.println("The value of division is "+F);
 		
 	
 	}
